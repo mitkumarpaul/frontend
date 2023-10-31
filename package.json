@@ -24,6 +24,7 @@
     "react-switch": "^5.0.0"
   },
   "scripts": {
+    "npm install": "npm install",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
